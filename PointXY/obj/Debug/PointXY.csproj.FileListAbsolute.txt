@@ -1,0 +1,15 @@
+C:\Users\Владимир\source\repos\PointXY\PointXY\bin\Debug\PointXY.exe.config
+C:\Users\Владимир\source\repos\PointXY\PointXY\bin\Debug\PointXY.exe
+C:\Users\Владимир\source\repos\PointXY\PointXY\bin\Debug\PointXY.pdb
+C:\Users\Владимир\source\repos\PointXY\PointXY\obj\Debug\PointXY.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\source\repos\PointXY\PointXY\obj\Debug\MainWindow.g.cs
+C:\Users\Владимир\source\repos\PointXY\PointXY\obj\Debug\App.g.cs
+C:\Users\Владимир\source\repos\PointXY\PointXY\obj\Debug\PointXY_MarkupCompile.cache
+C:\Users\Владимир\source\repos\PointXY\PointXY\obj\Debug\PointXY_MarkupCompile.lref
+C:\Users\Владимир\source\repos\PointXY\PointXY\obj\Debug\MainWindow.baml
+C:\Users\Владимир\source\repos\PointXY\PointXY\obj\Debug\PointXY.g.resources
+C:\Users\Владимир\source\repos\PointXY\PointXY\obj\Debug\PointXY.Properties.Resources.resources
+C:\Users\Владимир\source\repos\PointXY\PointXY\obj\Debug\PointXY.csproj.GenerateResource.Cache
+C:\Users\Владимир\source\repos\PointXY\PointXY\obj\Debug\PointXY.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\PointXY\PointXY\obj\Debug\PointXY.exe
+C:\Users\Владимир\source\repos\PointXY\PointXY\obj\Debug\PointXY.pdb
